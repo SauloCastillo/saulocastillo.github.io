@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    /* background: url('path/to/your/image.jpg') no-repeat center center; */
+    background: url('asset/img/frutillar.png') no-repeat center center;
     background-size: cover;
 }
 
